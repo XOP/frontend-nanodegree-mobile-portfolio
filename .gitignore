@@ -1,0 +1,10 @@
+## realm
+
+*.iml
+.idea
+
+
+## dev deps
+
+ngrok.exe
+node_modules
